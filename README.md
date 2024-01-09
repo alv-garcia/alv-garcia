@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvaro Garcia
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Alvaro Garcia
 =====================================================================================================================================
 
 Analista de meio ambiente | Analista de dados
@@ -6,7 +6,7 @@ Analista de meio ambiente | Analista de dados
 
 Eu atuo na área de meio ambiente principalmente na análise de dados, modelagem, cálculo de inventários de emissão GEE e de indicadores de sustentabilidade GRI.
 
-* 🌍  I'm based in Rio de Janeiro, Brasil.
+* 🌍  Eu moro no Rio de Janeiro, Brasil.
 
 ### Skills
 
