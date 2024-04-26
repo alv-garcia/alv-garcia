@@ -17,7 +17,7 @@ Eu atuo na área de meio ambiente principalmente na análise de dados, modelagem
 
 ### Formações e Bootcamps
 <p align="left">
-<a href= "https://www.linkedin.com/school/dio-makethechange/" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="42" height="42"/></a>
+<a href= "https://www.linkedin.com/school/dio-makethechange/" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="48" height="48"/></a>
 </p>
 
 ### Socials
