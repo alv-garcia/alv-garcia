@@ -12,9 +12,13 @@ Eu atuo na área de meio ambiente principalmente na análise de dados, modelagem
 
 
 <p align="left">
-<a href= "https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB_k_&gad_source=1&gclid=Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB" target="_blank" rel="noreferrer"><img src= "480px-New_Power_BI_Logo.svg.png" width="36" height="36" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href= "https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB_k_&gad_source=1&gclid=Cj0KCQiAnfmsBhDfARIsAM7MKi1b_5Bm-46pJU01I3L4Uz2fzS7HofQAZYjs4T9HKIKJfwu7UHhYNuMaAny_EALw_wcB" target="_blank" rel="noreferrer"><img src= "480px-New_Power_BI_Logo.svg.png" width="36" height="36" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
+### Formações
+<p align="left">
+<a href= "https://www.linkedin.com/school/dio-makethechange/" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="36" height="36"/></a>
+</p>
 
 ### Socials
 
