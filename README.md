@@ -17,8 +17,8 @@ Eu atuo na área de meio ambiente principalmente na análise de dados, modelagem
 
 ### Formações e Bootcamps
 <p align="left">
-<a href= "https://www.linkedin.com/school/dio-makethechange/" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="48" height="48"/>
-<a href= "https://www.dio.me/certificate/XSWQPOIC/share" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/d9a8147c-3c50-4465-bbe8-14ab1bb272f1.png" width="36" height="36" href="https://www.r-project.org/" target="_blank" rel="noreferrer"/></a>
+<a href= "https://www.linkedin.com/school/dio-makethechange/" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="54" height="54"/>
+<a href= "https://www.dio.me/certificate/XSWQPOIC/share" target="_blank" rel="noreferrer"><img src= "https://hermes.dio.me/tracks/d9a8147c-3c50-4465-bbe8-14ab1bb272f1.png" width="54" height="54" href="https://www.r-project.org/" target="_blank" rel="noreferrer"/></a>
 </p>
 
 ### Socials
